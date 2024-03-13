@@ -12,8 +12,6 @@ export default function Home() {
     };
     
     const cadastrarFilme = () => {
-        // Aqui você pode realizar ações com o título, como enviá-lo para um banco de dados, etc.
-        // Neste exemplo, apenas mostraremos o título no console.
         console.log("Título do filme cadastrado:", titulo);
     };
     //Depois a estrutura
